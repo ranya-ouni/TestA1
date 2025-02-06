@@ -1,0 +1,37 @@
+.inp-col{
+    background-color:blue;
+     color:white !important;
+    
+    border-top: blue;
+    border-right-color: blue;
+    border-left-color: blue;
+    border-bottom-color: rgb(59, 59, 73);
+}
+.btn{
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    margin-bottom: 5px;
+}
+
+.titre{
+    color: blue;
+   
+}
+.title{
+    color: white;
+}
+.font{
+    background-color: blue;
+    padding: 20px;
+}
+.inp-1{
+    border-top: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(59, 59, 73);
+}  
+.check-col{
+    color: white !important;
+}
+
